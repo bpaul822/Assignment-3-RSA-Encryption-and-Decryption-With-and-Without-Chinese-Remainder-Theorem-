@@ -10,5 +10,5 @@ or
 
 Procedure for running on Linux: 
 1. Comment out the getch() in line 181
-2. gcc -lm assign3.c -o assign3
+2. gcc -lm main.c -o assign3
 3. ./assign3
