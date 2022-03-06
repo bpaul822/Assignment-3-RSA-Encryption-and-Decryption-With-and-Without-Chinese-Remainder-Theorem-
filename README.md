@@ -1,6 +1,6 @@
 # Assignment-3-RSA-Encryption-and-Decryption-With-and-Without-Chinese-Remainder-Theorem-
 
-Bibin Paul EE19M508 bibin.paul.c@gmail.com
+Bibin Paul 
 
 Procedure for running on windows:
 
